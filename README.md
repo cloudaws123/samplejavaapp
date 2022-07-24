@@ -1,1 +1,2 @@
-Sample Java Applicaiton V3.45
+Sample Java Applicaiton V3.6
+hi this java new
